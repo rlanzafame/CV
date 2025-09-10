@@ -36,59 +36,55 @@ jobs:
           node-version: 18.x
       - name: Install MyST Markdown
         run: npm install -g mystmd
-      - name: Setup TeX Live
-        uses: teatimeguest/setup-texlive-action@v3
-        with:
-          packages: |  
-            adjustbox
-            amsfonts
-            amsmath
-            amssymb
-            amsthm
-            authblk
-            background
-            babel
-            booktabs
-            curvenote
-            datetime
-            doi
-            enumitem
-            fancyhdr
-            fancyvrb
-            float
-            framed
-            fontenc
-            geometry
-            graphbox
-            graphicx
-            hyperref
-            inputenc
-            lineno
-            lipsum
-            lmodern
-            microtype            
-            mdframed
-            natbib
-            needspace
-            nicefrac
-            newfloat
-            preprint
-            scalerel
-            sidecap
-            tikz
-            times
-            titlesec
-            txfonts
-            ulem
-            url
-            xcolor
-            xkeyval
-            zref-abspage
-            zref
-
-
-
-
+    #   - name: Setup TeX Live
+    #     uses: teatimeguest/setup-texlive-action@v3
+    #     with:
+    #       packages: |  
+    #         adjustbox
+    #         amsfonts
+    #         amsmath
+    #         amssymb
+    #         amsthm
+    #         authblk
+    #         background
+    #         babel
+    #         booktabs
+    #         curvenote
+    #         datetime
+    #         doi
+    #         enumitem
+    #         fancyhdr
+    #         fancyvrb
+    #         float
+    #         framed
+    #         fontenc
+    #         geometry
+    #         graphbox
+    #         graphicx
+    #         hyperref
+    #         inputenc
+    #         lineno
+    #         lipsum
+    #         lmodern
+    #         microtype            
+    #         mdframed
+    #         natbib
+    #         needspace
+    #         nicefrac
+    #         newfloat
+    #         preprint
+    #         scalerel
+    #         sidecap
+    #         tikz
+    #         times
+    #         titlesec
+    #         txfonts
+    #         ulem
+    #         url
+    #         xcolor
+    #         xkeyval
+    #         zref-abspage
+    #         zref
     #   - name: Build PDF Assets
     #     run: myst build --pdf      
       - name: Build HTML Assets
