@@ -1,0 +1,19 @@
+version: 1
+project:
+  github: https://github.com/rlanzafame/CV
+  id: 40ea24b1-e5cd-409c-b997-090f5f015a6c
+  # authors: Robert Lanzafame
+  title: CURRICULUM VITAE
+  # date: 2025-09-06
+  downloads:
+    - id: output-pdf
+  exports:
+    - format: pdf
+      template: curvenote
+      # output: exports/cv.pdf
+      id: output-pdf
+  toc:
+    - file: content/CV.md
+    
+site:
+  template: article-theme
