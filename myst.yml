@@ -6,7 +6,7 @@ project:
     - name: Robert Lanzafame
   title: CURRICULUM VITAE
   date: 2025-09-06
-  abstract: A description of the work life of Robert Lanzafame, founder of Teachbooks 
+  abstract: A description of the work life of Robert Lanzafame: teacher, engineer, co-founder of TeachBooks.
 
   downloads:
     - id: output-pdf
