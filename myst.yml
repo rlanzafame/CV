@@ -4,9 +4,12 @@ project:
   id: 40ea24b1-e5cd-409c-b997-090f5f015a6c
   authors: 
     - name: Robert Lanzafame
-  title: CURRICULUM VITAE
+  title: CV
   date: 2025-09-06
-  abstract: "A description of the work life of Robert Lanzafame: teacher, engineer, co-founder of TeachBooks."
+  abstract: |
+    A description of the work life of Robert Lanzafame: teacher, engineer, co-founder of TeachBooks.
+    
+    This CV is build usting MyST Markdown and is meant for online viewing at [rlanzafame.github.io/CV](https://rlanzafame.github.io/CV); the PDF has some formatting issues, but should still remain readable."
 
   downloads:
     - id: output-pdf

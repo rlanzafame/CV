@@ -4,6 +4,8 @@ site:
   hide_toc: true
 ---
 
+## CURRICULUM VITAE
+
 **Robert Lanzafame, Ph.D., P.E.** \
 Senior Lecturer, Civil Engineer
 
