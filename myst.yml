@@ -10,6 +10,7 @@ project:
 
   downloads:
     - id: output-pdf
+      title: Download CV as PDF
   exports:
     - format: typst
       template: lapreprint-typst
@@ -17,7 +18,6 @@ project:
       id: output-pdf
 
   toc:
-    # - file: index.md
     - file: content/CV.md
     
 site:
