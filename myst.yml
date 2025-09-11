@@ -16,7 +16,8 @@ project:
       title: Download CV as PDF
   exports:
     - format: typst
-      template: lapreprint-typst
+      # template: lapreprint-typst
+      template: ./template
       output: exports/CV_Robert_Lanzafame.pdf
       id: output-pdf
 
