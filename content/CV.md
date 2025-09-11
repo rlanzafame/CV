@@ -139,7 +139,9 @@ All supervision is at TU Delft, 2018-2025, unless noted otherwise.
 | 7/2020 | Volunteer, Redders van Dordt, Dordrecht, Netherlands.<br>_City-sponsored program to educate Dutch primary school children about flood risk and emergency response. Students built rafts and practiced water evacuation._ | 
 | 2020-2023 | Participant, Polder2C’s Project, Hedwige-Prosperpolder, Netherlands/Belgium.<br>_Interreg project focused on flood risk and climate change adaptation along the North Sea and English Channel; collaborators in UK, NL, BE, FR._ |
 
-## INVITED PRESENTATIONS
+## OUTPUTS AND PUBLICATIONS
+
+### INVITED PRESENTATIONS
 
 | | |
 | :--- | :--- |
@@ -158,7 +160,7 @@ All supervision is at TU Delft, 2018-2025, unless noted otherwise.
 | 12/2018 | Flood defense levees: a perspective from California.<br>_Hydraulic Engineering Department Symposium, TU Delft._ |
 | 2016 | Incremental risk of levee failure due to vegetation and animal burrowing.<br>_Association of Engineering Geologists Student Night, Oakland, CA._ |
 
-## JOURNAL AND CONFERENCE PUBLICATION REVIEWER
+### JOURNAL AND CONFERENCE PUBLICATION REVIEWER
 
 - Geotechnical Engineering Education 2025 Conference: International Society for Soil Mechanics and Geotechnical Engineering
 - Journal of Geotechnical and Geoenvironmental Engineering
@@ -166,7 +168,7 @@ All supervision is at TU Delft, 2018-2025, unless noted otherwise.
 - Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
 - 31st European Safety and Reliability Conference (ESREL), 2021.
 
-## ONLINE TEXTBOOKS
+### ONLINE TEXTBOOKS
 
 Lanzafame, R. C. (2024). Risk and Reliability for Engineers. TU Delft OPEN Publishing. doi:10.59490/tb.89\
 _🔗 [Link here](https://interactivetextbooks.tudelft.nl/risk-reliability/intro.html)_
@@ -181,7 +183,7 @@ van Woudenberg, T. R., Lanzafame, R. C., Kirsch, J. A. A., Jungbacker, C. A. A.,
 _🔗 [Link here](https://teachbooks.io/manual/)_
 
 
-## JOURNAL PAPERS
+### JOURNAL PAPERS
 
 Mares Nasarre, P., van Boldrik, N., Bakker, E., Lanzafame, R., & Morales Napoles, O. (2025). Unlocking Student Choices: Assessing Student Preferences in Courses in Engineering Education. Education Sciences, 15(7), Article 859. doi:10.3390/educsci.15070859\
 _🔗 Link: [](https://doi.org/10.3390/educsci15070859)_
@@ -193,7 +195,7 @@ Reinders, K., Pouliasis, G., Lanzafame, R., & Morales, O. (2020). Evaluating the
 
 Lanzafame, R., & Sitar, N. (2019). Reliability analysis of the influence of seepage on levee stability. Environmental Geotechnics, 6(5), 284-293.
 
-## TECHNICAL REPORTS
+### TECHNICAL REPORTS
 
 Tsimopoulou, V., Koelewijn, A., Lanzafame, R., Rikkert, S., Aljer, A., Nguyen, S. Karaoulis, M., Idsinga, J., Kieftenburg, A. (2023) Management of harmful animal activities on levees: Fact finding fieldwork in the Living Lab Hedwige-Prosperpolder, Polder2C’s Project, Interreg European Regional Development Fund. https://polder2cs.eu/results/reports/flood-defence
 
@@ -201,7 +203,7 @@ Lanzafame, R. & Sitar, N. (2018). Reliability analysis of the influence of veget
 
 Cohen-Waeber, J., Lanzafame, R., & Bray, J. (2014). Section 4: Effects of Surface Fault Rupture on Infrastructure, Geotechnical Engineering Reconnaissance of the August 24, 2014 M6 South Napa Earthquake. In J. D. Bray, J. Cohen-Waeber, T. Dawson, T. Kishida & N. Sitar (Eds.), GEER Association Report No. GEER--037 (Vol. Version 2).
 
-## CONFERENCE PAPERS AND PRESENTATIONS
+### CONFERENCE PAPERS AND PRESENTATIONS
 
 Lanzafame, R., van Woudenberg, T. (2024). Online interactive textbooks: creating a book and using it with your students is easier than you think - we'll prove it! SURF Onderwijsdagen, Den Haag, Netherlands, doi:10.5281/zenodo.14068656\
 _🔗 Link: [](https://doi.org/10.5281/zenodo.14068656)_
@@ -220,7 +222,7 @@ Cohen-Waeber, J., Lanzafame, R., Bray, J., & Sitar, N. (2015). The Performance o
 
 Mathy, D., Lanzafame, R., Adams, W., & Gallyer, S. (2012). Guided Boring and the Lafayette-Pleasant Hill Road Trunk Sewer. Paper presented at the North American Society for Trenchless Technology (NASTT) No-Dig Show 2012, Nashville, TN.
 
-## SOFTWARE AND PROGRAMMING RESOURCES
+### SOFTWARE AND PROGRAMMING RESOURCES
 
 Lanzafame, R. (2024) Modelling, Uncertainty and Data for Engineers (MUDE) Files. https://github.com/TUDelft-MUDE/2024-files. CC BY 4.0 License. doi:10.5281/zenodo.16782515\
 _🔗 [Link here](https://github.com/TUDelft-MUDE/2024-files)_

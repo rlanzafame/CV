@@ -5,7 +5,7 @@ project:
   authors: 
     - name: Robert Lanzafame
   title: CV
-  date: 2025-09-1
+  date: 2025-09-11
   abstract: |
     A description of the work life of Robert Lanzafame: teacher, engineer, co-founder of TeachBooks.
     
@@ -16,7 +16,8 @@ project:
       title: Download CV as PDF
   exports:
     - format: typst
-      template: lapreprint-typst
+      # template: lapreprint-typst
+      template: ./template
       output: exports/CV_Robert_Lanzafame.pdf
       id: output-pdf
 
