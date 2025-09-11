@@ -173,7 +173,7 @@ Lanzafame, R., van Woudenberg, T., Verhagen, S. (2024), Modelling, Uncertainty a
 _🔗 [Link here](https://mude.citg.tudelft.nl/book/2024)_
 
 Lanzafame, R., Verhagen, S., Alvarenga, G., Farahat, A., Mendoza Lugo, M. (2025), Python for Engineers. https://oit.tudelft.nl/learn-python/2025, CC BY 4.0. doi:10.5281/zenodo.16753127\
-_🔗 [Link here](https://oit.tudelft.nl/learn-python/2025_
+_🔗 [Link here](https://oit.tudelft.nl/learn-python/2025)_
 
 van Woudenberg, T. R., Lanzafame, R. C., Kirsch, J. A. A., Jungbacker, C. A. A., Pols, C. F. J., den Ouden-van der Horst, D., & Slingerland, I. C. (2024). TeachBooks Manual. GitHub. doi:10.5281/zenodo.15100848\
 _🔗 [Link here](https://teachbooks.io/manual/)_

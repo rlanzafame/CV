@@ -2,17 +2,22 @@ version: 1
 project:
   github: https://github.com/rlanzafame/CV
   id: 40ea24b1-e5cd-409c-b997-090f5f015a6c
-  # authors: Robert Lanzafame
+  authors: 
+    - name: Robert Lanzafame
   title: CURRICULUM VITAE
-  # date: 2025-09-06
+  date: 2025-09-06
+  abstract: A description of the work life of Robert Lanzafame, founder of Teachbooks 
+
   downloads:
     - id: output-pdf
   exports:
-    - format: pdf
-      template: curvenote
-      # output: exports/cv.pdf
+    - format: typst
+      template: lapreprint-typst
+      output: exports/RL_CV.pdf
       id: output-pdf
+
   toc:
+    - file: index.md
     - file: content/CV.md
     
 site:
